@@ -1,0 +1,190 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 M340 (ID=0x6900)
+    Vendor:   ATI
+    VRAM:     2038 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  1.147 seconds
+Platform assembly: E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Games\WARRIOR SOUL\warrior_soul_launcher_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.630700 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1860 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.050600 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 7451.
+Total: 4.420200 ms (FindLiveObjects: 0.568000 ms CreateObjectMapping: 0.206900 ms MarkObjects: 3.398900 ms  DeleteObjects: 0.245300 ms)
+
+IsolatedStorageException: Could not find file "C:\Users\Sabbir Hossain\AppData\LocalLow\SourceX\WARRIOR SOUL\GameSettings.json".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllText (System.String path, System.Text.Encoding encoding) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllText (System.String path) [0x00000] in <filename unknown>:0 
+  at GreatArcStudios.PauseManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+opa
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.790200 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 7481.
+Total: 5.194800 ms (FindLiveObjects: 0.524900 ms CreateObjectMapping: 0.201300 ms MarkObjects: 4.077200 ms  DeleteObjects: 0.390300 ms)
+
+IsolatedStorageException: Could not find file "C:\Users\Sabbir Hossain\AppData\LocalLow\SourceX\WARRIOR SOUL\GameSettings.json".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllText (System.String path, System.Text.Encoding encoding) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllText (System.String path) [0x00000] in <filename unknown>:0 
+  at GreatArcStudios.PauseManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.154600 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 7481.
+Total: 4.676500 ms (FindLiveObjects: 0.548100 ms CreateObjectMapping: 0.173400 ms MarkObjects: 3.755600 ms  DeleteObjects: 0.198100 ms)
+
+IsolatedStorageException: Could not find file "C:\Users\Sabbir Hossain\AppData\LocalLow\SourceX\WARRIOR SOUL\GameSettings.json".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize) [0x00000] in <filename unknown>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllText (System.String path, System.Text.Encoding encoding) [0x00000] in <filename unknown>:0 
+  at System.IO.File.ReadAllText (System.String path) [0x00000] in <filename unknown>:0 
+  at GreatArcStudios.PauseManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
